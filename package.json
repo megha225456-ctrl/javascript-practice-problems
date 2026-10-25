@@ -1,0 +1,22 @@
+{
+  "name": "javascript-practice-problems",
+  "version": "1.0.0",
+  "description": "Solutions to JavaScript practice problems including ES6 features, functions, and array methods",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "javascript",
+    "es6",
+    "practice-problems",
+    "arrays",
+    "functions",
+    "arrow-functions",
+    "spread-operator",
+    "template-literals"
+  ],
+  "author": "",
+  "license": "MIT"
+}
